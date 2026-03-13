@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jatin Arya 👋
 
-<!--
-**jaxxtin-devx/jaxxtin-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software & AI/ML Engineer  
 
-Here are some ideas to get you started:
+I enjoy solving problems and building real-world applications using code.  
+Currently focused on improving my skills in Data Structures, Full Stack Development, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- C++
+- Data Structures & Algorithms
+- Python
+- NumPy, Pandas
+- Full Stack Development
+- Machine Learning (Basics)
+
+## 📚 Currently Learning
+- Advanced DSA
+- AI / Machine Learning
+- Backend & Scalable Web Development
+
+## 📂 Projects
+Here you will find my work related to:
+- DSA practice
+- Python & data analysis
+- Full stack web development
+- Machine learning experiments
